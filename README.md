@@ -14,7 +14,7 @@ kimlik-dogrulama modülünü npm kullanarak yükleyin
     $ yarn add kimlik-dogrulama
 
 # npm:
-    $ npm i kimlik-dogrulama
+    $ npm i kimlik-dogrulama 
 ```
     
 ## Kullanım/Örnekler
