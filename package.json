@@ -1,6 +1,6 @@
 {
   "name": "kimlik-dogrulama",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "Bu paket tckimlik.nvi.gov.tr API'si üzerinden kimlik doğrulama işlemini kolay yoldan yapmanıza olanak sağlar.",
   "main": "index.js",
   "scripts": {
