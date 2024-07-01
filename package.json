@@ -1,6 +1,6 @@
 {
   "name": "kimlik-dogrulama",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "Bu paket tckimlik.nvi.gov.tr API'si üzerinden kimlik doğrulama işlemini kolay yoldan yapmanıza olanak sağlar.",
   "main": "index.js",
   "scripts": {
@@ -25,8 +25,5 @@
   "bugs": {
     "url": "https://github.com/sametkarapinar/kimlik-dogrulama/issues"
   },
-  "homepage": "https://github.com/sametkarapinar/kimlik-dogrulama#readme",
-  "dependencies": {
-    "kimlik-dogrulama": "^1.0.2"
-  }
+  "homepage": "https://github.com/sametkarapinar/kimlik-dogrulama#readme"
 }
