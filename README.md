@@ -11,10 +11,10 @@ kimlik-dogrulama modülünü npm kullanarak yükleyin
 
 ```bash 
 # yarn: 
-    $ yarn add tc-kimlik-dogrulama
+    $ yarn add kimlik-dogrulama
 
 # npm:
-    $ npm i tc-kimlik-dogrulama
+    $ npm i kimlik-dogrulama
 ```
     
 ## Kullanım/Örnekler
